@@ -1,0 +1,2 @@
+# SillyStoryGenerator
+Awesome Project
